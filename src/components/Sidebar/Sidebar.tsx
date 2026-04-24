@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Inbox, Users, ChevronDown, ChevronRight, User, Circle } from 'lucide-react';
+import { Inbox, Users, ChevronDown, ChevronRight, Circle } from 'lucide-react';
 import { SIDEBAR_TEAMS, SIDEBAR_USERS, CHANNELS } from '../../data/mockData';
 import './Sidebar.css';
 

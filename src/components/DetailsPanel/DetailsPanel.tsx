@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { User, Mail, Phone, Tag, FileText, ChevronDown, ChevronRight, Edit2, MoreHorizontal } from 'lucide-react';
+import { User, Mail, Phone, FileText, ChevronDown, ChevronRight, Edit2, MoreHorizontal } from 'lucide-react';
 import type { ChatDetails } from '../../types';
 import './DetailsPanel.css';
 
